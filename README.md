@@ -49,13 +49,12 @@ I love creating and innovating, and my ultimate goal is to work on a project tha
 <p align="center">
     <code><img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB"></code>
     <code><img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL"></code>
-    <code><img height="25" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" alt="Docker"></code>
-    <code><img height="25" src="https://i0.wp.com/goodtech.info/wp-content/uploads/2016/07/MariaDB-Logo-reverse-wht-text-square-web-072315-4c4.png?fit=200%2C200&ssl=1"></code>
+    <code><img height="25" src="https://imgs.search.brave.com/o2KfgiyLIAHVHlC8yrS88DN1mR4cmaLZgrj0Cywl29s/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9jZG4u/aWNvbi1pY29ucy5j/b20vaWNvbnMyLzI2/OTkvUE5HLzk2L2Zp/Z21hX2xvZ29faWNv/bl8xNzAxNTcucG5n" alt="Figma"></code>
 </p>
 
 ---
 
-## 📊 Statistiques GitHub & Wakatime
+## 📊 Statistiques GitHub
 <div align="center">
     <p align="center">
         <strong>Nombre de vues :</strong><br>
@@ -65,7 +64,6 @@ I love creating and innovating, and my ultimate goal is to work on a project tha
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=zZarby&hide_title=false&hide_rank=false&show_icons=true&rank_icon=github&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true&order=1" height="150" alt="Graphiques de statistiques"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=zZarby&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true&order=2" height="150" alt="Graphiques de langages"  />
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=zZarby&theme=dracula&count_private=true&hide_border=true">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=zZarby&radius=16&theme=react&area=true&order=5" height="300" alt="Graphique d'activité"  />
 </div>
 
