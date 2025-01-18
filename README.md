@@ -29,7 +29,7 @@ I love creating and innovating, and my ultimate goal is to work on a project tha
   <code><img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python"></code>
   <code><img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5"></code>
   <code><img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3"></code>
-  <code><img height="25" src="https://imgs.search.brave.com/u83zgPaxYxkGaK1WIFN0F4exm74kdThjIGMgMGkEAZ8/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9pc29j/cHAub3JnL2ZpbGVz/L2ltZy9jcHBfbG9n/by5wbmc" alt="C++"></code>
+  <code><img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/lua/lua-original.svg" alt="Lua"></code>
 </p>
 
 ---
