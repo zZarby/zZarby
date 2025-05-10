@@ -15,7 +15,7 @@ I love creating and innovating, and my ultimate goal is to work on a project tha
     <td>
       <strong>Discord</strong>
     </td> 
-    <td>zarby.cpp
+    <td>zarby.py
     </td> 
   </tr> 
 </table>
