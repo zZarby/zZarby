@@ -49,6 +49,7 @@ I love creating and innovating, and my ultimate goal is to work on a project tha
 <p align="center">
     <code><img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB"></code>
     <code><img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL"></code>
+    <code><img height="25" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/notion/notion-original.svg" alt="Notion"></code>
     <code><img height="25" src="https://imgs.search.brave.com/o2KfgiyLIAHVHlC8yrS88DN1mR4cmaLZgrj0Cywl29s/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9jZG4u/aWNvbi1pY29ucy5j/b20vaWNvbnMyLzI2/OTkvUE5HLzk2L2Zp/Z21hX2xvZ29faWNv/bl8xNzAxNTcucG5n" alt="Figma"></code>
 </p>
 
