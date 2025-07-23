@@ -59,8 +59,6 @@ I love creating and innovating, and my ultimate goal is to work on a project tha
 ## 📊 Statistiques GitHub
 <div align="center">
     <p align="center">
-        <strong>Nombre de vues :</strong><br>
-        <img src="https://profile-counter.glitch.me/zZarby/count.svg" align="center" alt="Compteur de vues" />
     </p>
 </div>
 <div align="center">
