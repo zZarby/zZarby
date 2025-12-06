@@ -31,6 +31,7 @@ I love creating and innovating, and my ultimate goal is to work on a project tha
   <code><img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3"></code>
   <code><img height="25" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/json/json-original.svg" alt="JSON"></code>
   <code><img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/lua/lua-original.svg" alt="Lua"></code>
+  <code><img height="25" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/csharp/csharp-original.svg" alt="Csharp"></code>
   <code><img height="25" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/rust/rust-original.svg" alt="Rust"></code>
 </p>
 
