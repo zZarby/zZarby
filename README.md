@@ -6,22 +6,6 @@ I love creating and innovating, and my ultimate goal is to work on a project tha
 
 ---
 
-## 🌐 My Networks
-<table> 
-  <tr> 
-    <td>
-      <img src="https://upload.wikimedia.org/wikipedia/fr/thumb/4/4f/Discord_Logo_sans_texte.svg/1818px-Discord_Logo_sans_texte.svg.png" alt="Discord" height="25" />
-    </td> 
-    <td>
-      <strong>Discord</strong>
-    </td> 
-    <td>t_zarby
-    </td> 
-  </tr> 
-</table>
-
----
-
 ## 👨‍💻 Languages
 
 <p align="center">
