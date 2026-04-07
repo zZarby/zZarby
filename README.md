@@ -49,8 +49,6 @@ I love creating and innovating, and my ultimate goal is to work on a project tha
     </p>
 </div>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zZarby&hide_title=false&hide_rank=false&show_icons=true&rank_icon=github&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true&order=1" height="150" alt="Graphiques de statistiques"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=zZarby&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true&order=2" height="150" alt="Graphiques de langages"  />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=zZarby&radius=16&theme=react&area=true&order=5" height="300" alt="Graphique d'activité"  />
 </div>
 
